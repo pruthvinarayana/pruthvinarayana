@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pruthvinarayana
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning BTECH CSE 1st year
+- 🌱 I’m currently in BTECH CSE 2nd year
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he
